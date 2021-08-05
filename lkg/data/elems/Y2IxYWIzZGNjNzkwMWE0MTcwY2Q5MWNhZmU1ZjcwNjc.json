@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Q5nykOQ/1LBcyPMjTxbe7w==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "label_X611_Y322_W298_H50", 
+    "human_readable": "label_611_322_298_50_label_0000ffffffffffffffff4fff03ff03ff01ff03ffffffffffffffffffffffffff_ba7350498760bbe39794cd6ec8fc8925", 
+    "image_path": "Y2IxYWIzZGNjNzkwMWE0MTcwY2Q5MWNhZmU1ZjcwNjc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "for": "username"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(153, 153, 153)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 50, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Email Address", 
+            "type": "", 
+            "value": "", 
+            "width": 298, 
+            "x": 611, 
+            "xPercent": 31.822916666666668, 
+            "y": 322, 
+            "yPercent": 36.674259681093396
+        }, 
+        "location": {
+            "x": 611, 
+            "y": 322
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 298
+        }, 
+        "tag_name": "label", 
+        "text": "Email Address"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "111925d782cdabbac39fe043cc23f147", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Email Address", 
+    "transformed": true, 
+    "width": 298, 
+    "x": 611, 
+    "y": 322
+}

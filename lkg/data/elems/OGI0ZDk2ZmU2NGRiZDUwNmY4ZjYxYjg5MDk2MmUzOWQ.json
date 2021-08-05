@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "vu092bjFxCbhLHbYgOh5VQ==\n", 
+    "height": 388, 
+    "hier_level": 0, 
+    "human_hash": "a_X825_Y324_W239_H388", 
+    "human_readable": "a_825_324_239_388_a_ffffffffc003c003c003cc03c003fe7fffffffff804f83ffffffffff87ff82ff_b9bcac8b649642f8ae76cb37a3c40e91", 
+    "image_path": "OGI0ZDk2ZmU2NGRiZDUwNmY4ZjYxYjg5MDk2MmUzOWQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "product is-10-px-padded-partial-refresh", 
+                "href": "/fancy-feast-classic-chicken-feast/dp/103886", 
+                "style": "padding-bottom: 76px;"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "product is-10-px-padded-partial-refresh", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 388, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Fancy Feast\n             Classic Chicken Feast Canned Cat Food, 3-oz, case of 24\n          \n        \n      \n\n      \n\n        \n        \n        \n        \n\n        \n        \n        \n\n        \n          \n            \n              $15.12\n            \n            \n\t\t\t\t\t\t\t\n                $18.00\n              \n\t\t\t\t\t\t\n          \n        \n\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t585\n\t\t\t\n\t\t\n\t\n\t\n\n\n\n        \n          \n            FREE\n            \n              1-3 day\n            \n            shipping over $49\n          \n        \n        \n      \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n    USD\n    Fancy Feast Classic Chicken Feast Canned Cat Food, 3-oz, case of 24\n    76011\n    Fancy Feast\n    389\n    \n    \n    \n        15.12\n    \n    \n        2\n    \n    \n    \n    false\n    \n      { \"deal\": false, \"strike\": false, \"greenbar\": false }", 
+            "type": "", 
+            "value": "", 
+            "width": 239, 
+            "x": 825, 
+            "xPercent": 42.959798177083336, 
+            "y": 324, 
+            "yPercent": 5.852601156069364
+        }, 
+        "location": {
+            "x": 825, 
+            "y": 324
+        }, 
+        "size": {
+            "height": 388, 
+            "width": 239
+        }, 
+        "tag_name": "a", 
+        "text": "Fancy Feast\n             Classic Chicken Feast Canned Cat Food, 3-oz, case of 24\n          \n        \n      \n\n      \n\n        \n        \n        \n        \n\n        \n        \n        \n\n        \n          \n            \n              $15.12\n            \n            \n\t\t\t\t\t\t\t\n                $18.00\n              \n\t\t\t\t\t\t\n          \n        \n\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t585\n\t\t\t\n\t\t\n\t\n\t\n\n\n\n        \n          \n            FREE\n            \n              1-3 day\n            \n            shipping over $49\n          \n        \n        \n      \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n    USD\n    Fancy Feast Classic Chicken Feast Canned Cat Food, 3-oz, case of 24\n    76011\n    Fancy Feast\n    389\n    \n    \n    \n        15.12\n    \n    \n        2\n    \n    \n    \n    false\n    \n      { \"deal\": false, \"strike\": false, \"greenbar\": false }"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "56b072e43054bd343507482e27dab25e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Fancy Feast\n             Classic Chicken Feast Canned Cat Food, 3-oz, case of 24\n          \n        \n      \n\n      \n\n        \n        \n        \n        \n\n        \n        \n        \n\n        \n          \n            \n              $15.12\n            \n            \n\t\t\t\t\t\t\t\n                $18.00\n              \n\t\t\t\t\t\t\n          \n        \n\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t585\n\t\t\t\n\t\t\n\t\n\t\n\n\n\n        \n          \n            FREE\n            \n              1-3 day\n            \n            shipping over $49\n          \n        \n        \n      \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n    USD\n    Fancy Feast Classic Chicken Feast Canned Cat Food, 3-oz, case of 24\n    76011\n    Fancy Feast\n    389\n    \n    \n    \n        15.12\n    \n    \n        2\n    \n    \n    \n    false\n    \n      { \"deal\": false, \"strike\": false, \"greenbar\": false }", 
+    "transformed": true, 
+    "width": 239, 
+    "x": 825, 
+    "y": 324
+}

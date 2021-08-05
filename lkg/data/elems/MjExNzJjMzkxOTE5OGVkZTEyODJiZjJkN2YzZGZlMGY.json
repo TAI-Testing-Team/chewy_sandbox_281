@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "68mYX7KLjfxkelUdSjSaOg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "input_X611_Y484_W128_H48", 
+    "human_readable": "input_611_484_128_48_input_800100000000000000000e400fe00ff00ff00ff0030003000000000000008001_0ffc71968c588734b47b6925f63858c5", 
+    "image_path": "MjExNzJjMzkxOTE5OGVkZTEyODJiZjJkN2YzZGZlMGY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cw-btn cw-btn--action input--submit js-login", 
+                "name": "submitForm", 
+                "type": "submit", 
+                "value": "Sign In"
+            }, 
+            "background-color": "rgb(239, 108, 0)", 
+            "class": "input", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cw-btn cw-btn--action input--submit js-login", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 18, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "submitForm", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "submit", 
+            "value": "Sign In", 
+            "width": 128, 
+            "x": 611, 
+            "xPercent": 31.822916666666668, 
+            "y": 484, 
+            "yPercent": 55.125284738041
+        }, 
+        "location": {
+            "x": 611, 
+            "y": 484
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 128
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "111925d782cdabbac39fe043cc23f147", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "Sign In", 
+    "transformed": true, 
+    "width": 128, 
+    "x": 611, 
+    "y": 484
+}
