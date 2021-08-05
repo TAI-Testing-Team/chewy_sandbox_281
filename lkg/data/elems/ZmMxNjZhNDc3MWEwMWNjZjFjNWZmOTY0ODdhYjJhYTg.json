@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DmmOxd6qALpClwgCo8IO5A==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X484_Y364_W150_H22", 
+    "human_readable": "a_484_364_150_22_a_ffffffffffffbc7fb87f8001800180018001808180018591fffffffdffffffff_d15414b7ed1864d0c3346b32c74f41b6", 
+    "image_path": "ZmMxNjZhNDc3MWEwMWNjZjFjNWZmOTY0ODdhYjJhYTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-menu-rx-flyout-nav-all-link", 
+                "data-v-f61176b6": "", 
+                "href": "/b/pharmacy-2515"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "sfw-header-menu-rx-flyout-nav-all-link", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop all Pharmacy", 
+            "type": "", 
+            "value": "", 
+            "width": 150, 
+            "x": 484, 
+            "xPercent": 25.208333333333332, 
+            "y": 364, 
+            "yPercent": 6.360300541673947
+        }, 
+        "location": {
+            "x": 484, 
+            "y": 364
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 150
+        }, 
+        "tag_name": "a", 
+        "text": "Shop all Pharmacy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a51c3d21de9d150950cd943aab7590aa", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop all Pharmacy", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 484, 
+    "y": 364
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jYcU9055x4GNXfvoDFrCiA==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "li_X484_Y166_W178_H58", 
+    "human_readable": "li_484_166_178_58_li_ffffffffffffffffffffbff907f907fd07f907f907ffefffffffffffffffffff_27ba7dc84403f303806079f03d645f1a", 
+    "image_path": "NmJjNWQxYTQ4ZGJlNDMzZjA2ZGI3ZDQ5Y2E2OWZjMDc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-v-f61176b6": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(51, 51, 51)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Dog", 
+            "type": "", 
+            "value": 0, 
+            "width": 178, 
+            "x": 484, 
+            "xPercent": 25.208333333333332, 
+            "y": 166, 
+            "yPercent": 2.9005766206535033
+        }, 
+        "location": {
+            "x": 484, 
+            "y": 166
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 178
+        }, 
+        "tag_name": "li", 
+        "text": "Dog"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a51c3d21de9d150950cd943aab7590aa", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Dog", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 484, 
+    "y": 166
+}

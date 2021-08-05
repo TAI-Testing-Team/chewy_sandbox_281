@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LIR94px22ACZfEyWYP1bBQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "span_X1279_Y36_W117_H24", 
+    "human_readable": "span_1279_36_117_24_span_000000000000000000010803fffffbfffbfffb7ffbfffbfffbff800080000000_a2a649a733993bc8e17f5d11dbfbda7d", 
+    "image_path": "NTZjNDQ3ZDJjN2VjZTA4ZTVkMGNhNjUwYzZkNTYzYWU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-link", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "your\n              account", 
+            "type": "", 
+            "value": "", 
+            "width": 117, 
+            "x": 1279, 
+            "xPercent": 66.61051432291667, 
+            "y": 36, 
+            "yPercent": 0.3232758620689655
+        }, 
+        "location": {
+            "x": 1279, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 117
+        }, 
+        "tag_name": "span", 
+        "text": "your\n              account"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "88beda2e8078327f0f9467d092aa4575", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "your\n              account", 
+    "transformed": true, 
+    "width": 117, 
+    "x": 1279, 
+    "y": 36
+}

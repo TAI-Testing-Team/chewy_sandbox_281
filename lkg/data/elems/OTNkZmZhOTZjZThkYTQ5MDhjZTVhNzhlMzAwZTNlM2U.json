@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Tlbjmk4/aFx9gwcd7m+3JQ==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "button_X484_Y282_W178_H58", 
+    "human_readable": "button_484_282_178_58_button_ffffffffffffffffffff7ff903f903fd03f903f983ffffffffffffffffffffff_9e76cd4c16c63ea0460a0f098250c27b", 
+    "image_path": "OTNkZmZhOTZjZThkYTQ5MDhjZTVhNzhlMzAwZTNlM2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-menu__category is-control", 
+                "data-v-f61176b6": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(85, 85, 85)", 
+            "cssClass": "sfw-header-menu__category is-control", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 24, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Horse", 
+            "type": "", 
+            "value": "", 
+            "width": 178, 
+            "x": 484, 
+            "xPercent": 25.208333333333332, 
+            "y": 282, 
+            "yPercent": 4.927485584483662
+        }, 
+        "location": {
+            "x": 484, 
+            "y": 282
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 178
+        }, 
+        "tag_name": "button", 
+        "text": "Horse"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a51c3d21de9d150950cd943aab7590aa", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Horse", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 484, 
+    "y": 282
+}

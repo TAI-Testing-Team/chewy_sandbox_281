@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "l1v/LF2PZiDywHJnbFSTUQ==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X980_Y88_W121_H48", 
+    "human_readable": "a_980_88_121_48_a_0000000000000000000020287f7e7ffe7ffe7ffe01c001000000000000000000_ccbed976546ea9b292f8c006d839630d", 
+    "image_path": "NmYyYTYyNjM4N2NkZDE1MDVlODg4MTZlN2NhOTg2MDE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Chewy Picks", 
+                "class": "sfw-header-nav-trigger sfw-header-link", 
+                "href": "/chewy-picks", 
+                "id": "core-nav-3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-link", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 48, 
+            "identifier": "core-nav-3", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "chewy picks", 
+            "type": "", 
+            "value": "", 
+            "width": 121, 
+            "x": 980, 
+            "xPercent": 51.027018229166664, 
+            "y": 88, 
+            "yPercent": 1.5376550760090861
+        }, 
+        "location": {
+            "x": 980, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 121
+        }, 
+        "tag_name": "a", 
+        "text": "chewy picks"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a51c3d21de9d150950cd943aab7590aa", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "chewy picks", 
+    "transformed": true, 
+    "width": 121, 
+    "x": 980, 
+    "y": 88
+}
