@@ -2,6 +2,7 @@
     "buy cat food": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "buy cat food", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -104,7 +105,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "DiffBott22@", 
+                "grep": "DiffBot22@", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
                 "label_count": null, 

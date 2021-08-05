@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ch6RoaP6vnAnQihaHSKhjg==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "a_X477_Y88_W93_H62", 
+    "human_readable": "a_477_88_93_62_a_000000000000000010007fff7fff7fff60030000000000000000000000000000_d36f34fe738dccca77d3aefa5f077100", 
+    "image_path": "MzA3NzRlOTNjNWVmMDc4ZjZmOWEwMDIwNzcwNzNiYmE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-nav-trigger pharmacy-dropdown-link sfw-header-nav-trigger--pharmacy sfw-header-link", 
+                "href": "/b/pharmacy-2515"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger pharmacy-dropdown-link sfw-header-nav-trigger--pharmacy sfw-header-link", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "pharmacy", 
+            "type": "", 
+            "value": "", 
+            "width": 93, 
+            "x": 477, 
+            "xPercent": 24.856770833333332, 
+            "y": 88, 
+            "yPercent": 0.7902298850574714
+        }, 
+        "location": {
+            "x": 477, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 93
+        }, 
+        "tag_name": "a", 
+        "text": "pharmacy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "88beda2e8078327f0f9467d092aa4575", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "pharmacy", 
+    "transformed": true, 
+    "width": 93, 
+    "x": 477, 
+    "y": 88
+}
