@@ -1,8 +1,7 @@
 {
-    "Menu Bar": {
+    "buy cat food": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Menu Bar", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -12,7 +11,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_shop"
+                    "lnk_cat_food"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -26,35 +25,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddi_fish"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "img_tanks_aquariums"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_pharmacy"
+                    "lnk_wet_food"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -68,97 +39,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_shop_all_pharmacy"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_down", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_brands"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "Shop by Brand", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_todays_deals"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "hamster food", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_search"
+                    "lnk_pate"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -172,7 +53,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mnu_chewy_picks"
+                    "lnk_fancy_feast"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -186,7 +67,63 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "icn_chewy_home"
+                    "lnk_add_to_cart"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_proceed_to_checkout"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "publicbot@appdiff.com", 
+                "grep_count": null, 
+                "input": "text_entry_no_submit", 
+                "label_count": null, 
+                "labels": [
+                    "inp_email_address"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "DiffBott22@", 
+                "grep_count": null, 
+                "input": "text_entry_no_submit", 
+                "label_count": null, 
+                "labels": [
+                    "inp_password"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "inp_sign_in"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -194,7 +131,7 @@
             }
         ], 
         "tags": [], 
-        "temp_id": "143b7891-f586-11eb-b57c-1e00da3ad77a", 
-        "title": "Menu Bar"
+        "temp_id": "d64be12e-f595-11eb-8f57-149d997fd38b", 
+        "title": "buy cat food"
     }
 }

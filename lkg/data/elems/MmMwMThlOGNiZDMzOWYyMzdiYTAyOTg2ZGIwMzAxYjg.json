@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DGbSoAW4AwO8ZSQG9yCfEw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X1325_Y473_W254_H48", 
+    "human_readable": "a_1325_473_254_48_a_00000000000000000000024007e007e007e007e0020000000000000000000000_4527931d7aab70b03ce225a269b2859c", 
+    "image_path": "MmMwMThlOGNiZDMzOWYyMzdiYTAyOTg2ZGIwMzAxYjg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cw-btn cw-btn--action cw-btn--full js-add-cart js-upsell-smartshelf ", 
+                "data-confirm-rx-quantity": "false", 
+                "data-qa-id": "addToCart", 
+                "href": "javascript:void(0);"
+            }, 
+            "background-color": "rgb(239, 108, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cw-btn cw-btn--action cw-btn--full js-add-cart js-upsell-smartshelf ", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 18, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Add to Cart", 
+            "type": "", 
+            "value": "", 
+            "width": 254, 
+            "x": 1325, 
+            "xPercent": 69.02669270833334, 
+            "y": 473, 
+            "yPercent": 4.247485632183908
+        }, 
+        "location": {
+            "x": 1325, 
+            "y": 473
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 254
+        }, 
+        "tag_name": "a", 
+        "text": "Add to Cart"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3d735f4b25bdbd6293680a9642070b3b", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Add to Cart", 
+    "transformed": true, 
+    "width": 254, 
+    "x": 1325, 
+    "y": 473
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "qgH8l12YepuSwosSB9FJbw==\n", 
+    "height": 130, 
+    "hier_level": 0, 
+    "human_hash": "a_X690_Y510_W129_H130", 
+    "human_readable": "a_690_510_129_130_a_ffffffffe007f007f067e007e007e00ff00ffffffffffffffc3fffffffffffff_5b6d9320605ab7b9f3955fc5e9890b39", 
+    "image_path": "MDEwMTI5YzEyYjhkNWFmNTgzMTRkMWY2MjFmZjk5ZTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "results-featured__item cw-carousel__slide tns-item tns-slide-active", 
+                "data-position": "2", 
+                "href": "/b/pate-11173", 
+                "id": "tns6-item1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "results-featured__item cw-carousel__slide tns-item tns-slide-active", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 130, 
+            "identifier": "tns6-item1", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Pate", 
+            "type": "", 
+            "value": "", 
+            "width": 129, 
+            "x": 690, 
+            "xPercent": 35.924479166666664, 
+            "y": 510, 
+            "yPercent": 7.297181284876234
+        }, 
+        "location": {
+            "x": 690, 
+            "y": 510
+        }, 
+        "size": {
+            "height": 130, 
+            "width": 129
+        }, 
+        "tag_name": "a", 
+        "text": "Pate"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "35fe38e8b284ebd76840ab20e89f88a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Pate", 
+    "transformed": true, 
+    "width": 129, 
+    "x": 690, 
+    "y": 510
+}

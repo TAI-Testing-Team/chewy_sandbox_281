@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ePu1RAPtgxqSIN9m9OeeVw==\n", 
+    "height": 130, 
+    "hier_level": 0, 
+    "human_hash": "a_X561_Y510_W129_H130", 
+    "human_readable": "a_561_510_129_130_a_ffffffffe04fe007e007e007e007e007f81ffffffffffffff00ffbffffffffff_dcb3e94ec8496c258f339add0128de16", 
+    "image_path": "ZjZlNjQwNjk5MTg1YzA4ZDg4MWU3NzE2YmNlMzY1ZTA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "results-featured__item cw-carousel__slide tns-item tns-slide-active", 
+                "data-position": "1", 
+                "href": "/b/wet-food-389", 
+                "id": "tns1-item0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "results-featured__item cw-carousel__slide tns-item tns-slide-active", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 130, 
+            "identifier": "tns1-item0", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Wet Food", 
+            "type": "", 
+            "value": "", 
+            "width": 129, 
+            "x": 561, 
+            "xPercent": 29.21875, 
+            "y": 510, 
+            "yPercent": 7.178043631245602
+        }, 
+        "location": {
+            "x": 561, 
+            "y": 510
+        }, 
+        "size": {
+            "height": 130, 
+            "width": 129
+        }, 
+        "tag_name": "a", 
+        "text": "Wet Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7388923d0fe9dff5985b88317dabb207", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Wet Food", 
+    "transformed": true, 
+    "width": 129, 
+    "x": 561, 
+    "y": 510
+}
