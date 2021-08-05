@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xKHrdu5p41WH2WUn9zlmhg==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "span_X1486_Y36_W80_H24", 
+    "human_readable": "span_1486_36_80_24_span_00000000000000000001010bff7fff7ffe5dff5dff7dff7df67dc00080008000_7cedefc4217a3fb93e4a7bb90f88ba26", 
+    "image_path": "MGRmOWI4NTQzYmFjNWQ1MzBlOTk2ZGFiNDhiZmEzYjY.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cw-margin__start--small cw-display__hide-on-max-large sfw-header-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "cw-margin__start--small cw-display__hide-on-max-large sfw-header-link", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "your cart", 
+            "type": "", 
+            "value": "", 
+            "width": 80, 
+            "x": 1486, 
+            "xPercent": 78.01181102362204, 
+            "y": 36, 
+            "yPercent": 0.9226037929267042
+        }, 
+        "location": {
+            "x": 1486, 
+            "y": 36
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 80
+        }, 
+        "tag_name": "span", 
+        "text": "your cart"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "your cart", 
+    "transformed": true, 
+    "width": 80, 
+    "x": 1486, 
+    "y": 36
+}

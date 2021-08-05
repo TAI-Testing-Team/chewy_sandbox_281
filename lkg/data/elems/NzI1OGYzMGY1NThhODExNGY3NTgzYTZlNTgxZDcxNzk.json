@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BVFn/Ak17sXsT/kZiUa8BA==\n", 
+    "height": 188, 
+    "hier_level": 0, 
+    "human_hash": "img_X768_Y412_W188_H188", 
+    "human_readable": "img_768_412_188_188_img_ff9ffc0ff803f801fff9ffddffccff08ff00ff00fe00f801f801f803f807fc1f_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NzI1OGYzMGY1NThhODExNGY3NTgzYTZlNTgxZDcxNzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Tanks & Aquariums", 
+                "aria-hidden": "false", 
+                "class": "cw-image cw-image--loaded", 
+                "src": "//cms-www.chewy.com/contentAsset/raw-data/f2f86675-356e-4fcc-a9be-487525f3c998/itemImage/FISH-Circle-5-8-1X.jpg", 
+                "srcset": "//cms-www.chewy.com/contentAsset/raw-data/f2f86675-356e-4fcc-a9be-487525f3c998/itemImage/FISH-Circle-5-8-1X.jpg, //cms-www.chewy.com/contentAsset/raw-data/f2f86675-356e-4fcc-a9be-487525f3c998/itemImage2x/FISH-Circle-5-8-2X.jpg 2x"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "cw-image cw-image--loaded", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 188, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 188, 
+            "x": 768, 
+            "xPercent": 40.30921916010499, 
+            "y": 412, 
+            "yPercent": 7.199021492224358
+        }, 
+        "location": {
+            "x": 768, 
+            "y": 412
+        }, 
+        "size": {
+            "height": 188, 
+            "width": 188
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "781d1562aa11ffe0adb3ebb8f87bd554", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 188, 
+    "x": 768, 
+    "y": 412
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "GAqoovl2NldWdxDG68NDxA==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "button_X320_Y224_W178_H58", 
+    "human_readable": "button_320_224_178_58_button_fffffffffffffffffffffff90ff90ff90ff90ff90ffbffffffffffffffffffff_45222c38f203b5e0214cd68b60cba51d", 
+    "image_path": "MTFiMTc5ZTdhYTU1MmIxOTVjNjJiNmYzOTQzNzRhMGY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-menu__category is-control", 
+                "data-v-f61176b6": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(85, 85, 85)", 
+            "cssClass": "sfw-header-menu__category is-control", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 24, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Cat", 
+            "type": "", 
+            "value": "", 
+            "width": 178, 
+            "x": 320, 
+            "xPercent": 16.771653543307085, 
+            "y": 224, 
+            "yPercent": 5.740645822655049
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 224
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 178
+        }, 
+        "tag_name": "button", 
+        "text": "Cat"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "030e5b5ad4af90b1051a9b09cb099374", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Cat", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 320, 
+    "y": 224
+}

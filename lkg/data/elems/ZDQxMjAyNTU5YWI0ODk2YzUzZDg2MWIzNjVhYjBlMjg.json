@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "L+379IAd8yo6zDqE2fLJhw==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "span_X374_Y132_W20_H20", 
+    "human_readable": "span_374_132_20_20_span_00000000000000000000000000000000000000000000000000000000ffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZDQxMjAyNTU5YWI0ODk2YzUzZDg2MWIzNjVhYjBlMjg.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-nav-trigger__arrow"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger__arrow", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 24, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 20, 
+            "x": 374, 
+            "xPercent": 19.649770341207347, 
+            "y": 132, 
+            "yPercent": 3.3828805740645826
+        }, 
+        "location": {
+            "x": 374, 
+            "y": 132
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 20
+        }, 
+        "tag_name": "span", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "", 
+    "transformed": true, 
+    "width": 20, 
+    "x": 374, 
+    "y": 132
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "wKoaMsp1x4O7bAMQhfJ1xg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X786_Y88_W126_H48", 
+    "human_readable": "a_786_88_126_48_a_0000000000000000000009247f7e7ffe7ffe7ffe060000000000000000000000_3f6cb6314c7f80438139e9f73f5feca5", 
+    "image_path": "OGUxMjFkZGE5ZWY5NThjZTc5ZDQ0ZGFkOWQ0YzcxYjA.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Today's Deals", 
+                "class": "sfw-header-nav-trigger sfw-header-link", 
+                "href": "https://www.chewy.com/deals/todays-deals-2723", 
+                "id": "core-nav-2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-link", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 48, 
+            "identifier": "core-nav-2", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "today's deals", 
+            "type": "", 
+            "value": "", 
+            "width": 126, 
+            "x": 786, 
+            "xPercent": 41.248359580052494, 
+            "y": 88, 
+            "yPercent": 2.255253716043055
+        }, 
+        "location": {
+            "x": 786, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 126
+        }, 
+        "tag_name": "a", 
+        "text": "today's deals"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "today's deals", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 786, 
+    "y": 88
+}

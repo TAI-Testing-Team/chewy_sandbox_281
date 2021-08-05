@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "bLkHXU98Dm6mGDaL/48jMg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X651_Y88_W75_H48", 
+    "human_readable": "a_651_88_75_48_a_0000000000000000000060107ffc7ffc7ffc7ffc000000000000000000000000_a4bc3302f7e29b15c7972e092e4b7d37", 
+    "image_path": "ZjQxMzUxMmQxYjA3MTM0OGZjZmFkYWYxZWNhZDlmNzU.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Brands", 
+                "class": "sfw-header-nav-trigger sfw-header-link", 
+                "href": "https://www.chewy.com/brands", 
+                "id": "core-nav-1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-link", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 48, 
+            "identifier": "core-nav-1", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "brands", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 651, 
+            "xPercent": 34.15764435695538, 
+            "y": 88, 
+            "yPercent": 2.255253716043055
+        }, 
+        "location": {
+            "x": 651, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 75
+        }, 
+        "tag_name": "a", 
+        "text": "brands"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "brands", 
+    "transformed": true, 
+    "width": 75, 
+    "x": 651, 
+    "y": 88
+}

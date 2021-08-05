@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VaDw2aRM6+SQa40zscchDw==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "li_X1117_Y24_W138_H48", 
+    "human_readable": "li_1117_24_138_48_li_000000000000000000003f207fe03ffc3ffc7ff42df000200000000000000000_41644d362979710b35c7296de3dae94d", 
+    "image_path": "MzEyNGUzNTNiY2ExOWNkMDU3MzdlNzdjY2Q3ZjM2NzE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header__help"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header__help", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "24/7 help\n           Get help from our experts 24/7 1-800-672-4399  Chat Live\n      \n \n      Contact Us\n     Track Order FAQs Shipping Info", 
+            "type": "", 
+            "value": 0, 
+            "width": 138, 
+            "x": 1117, 
+            "xPercent": 58.63353018372703, 
+            "y": 24, 
+            "yPercent": 0.6150691952844696
+        }, 
+        "location": {
+            "x": 1117, 
+            "y": 24
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 138
+        }, 
+        "tag_name": "li", 
+        "text": "24/7 help\n           Get help from our experts 24/7 1-800-672-4399  Chat Live\n      \n \n      Contact Us\n     Track Order FAQs Shipping Info"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "24/7 help\n           Get help from our experts 24/7 1-800-672-4399  Chat Live\n      \n \n      Contact Us\n     Track Order FAQs Shipping Info", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 1117, 
+    "y": 24
+}

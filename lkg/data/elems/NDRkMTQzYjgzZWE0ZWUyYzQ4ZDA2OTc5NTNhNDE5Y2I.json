@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "aekULDMvgOVAIuKTY72TxA==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "button_X320_Y166_W178_H58", 
+    "human_readable": "button_320_166_178_58_button_ffffffffffffffffffffbff907f907fd07f907f907ffefffffffffffffffffff_27ba7dc84403f303806079f03d645f1a", 
+    "image_path": "NDRkMTQzYjgzZWE0ZWUyYzQ4ZDA2OTc5NTNhNDE5Y2I.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "true", 
+                "class": "sfw-header-menu__category is-control is-selected", 
+                "data-v-f61176b6": ""
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "sfw-header-menu__category is-control is-selected", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 24, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Dog", 
+            "type": "", 
+            "value": "", 
+            "width": 178, 
+            "x": 320, 
+            "xPercent": 16.771653543307085, 
+            "y": 166, 
+            "yPercent": 4.254228600717581
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 166
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 178
+        }, 
+        "tag_name": "button", 
+        "text": "Dog"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "030e5b5ad4af90b1051a9b09cb099374", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Dog", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 320, 
+    "y": 166
+}

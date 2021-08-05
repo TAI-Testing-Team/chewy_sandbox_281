@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "dXN23Mi5AX9uUA6BaK2dzA==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "button_X562_Y88_W28_H62", 
+    "human_readable": "button_562_88_28_62_button_000000000000000000000ff007e0018000000000000000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MTc4MDhiZGUyNmRiMzk1YzhiMGI4NmQ3YmQ0ODc0ZmI.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Open pharmacy menu", 
+                "class": "sfw-header-nav-trigger sfw-header-nav-trigger--dropdown sfw-header-nav-trigger--pharmacy sfw-header-nav-trigger--dropdown__arrow"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-nav-trigger--dropdown sfw-header-nav-trigger--pharmacy sfw-header-nav-trigger--dropdown__arrow", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 562, 
+            "xPercent": 29.51607611548556, 
+            "y": 88, 
+            "yPercent": 2.255253716043055
+        }, 
+        "location": {
+            "x": 562, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 28
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 28, 
+    "x": 562, 
+    "y": 88
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "vmctVcWDKcdCGzsCGHQynw==\n", 
+    "height": 46, 
+    "hier_level": 0, 
+    "human_hash": "svg_X320_Y24_W155_H46", 
+    "human_readable": "svg_320_24_155_46_svg_10001000110873adfffdfefd9fff97ff96ffb7fef7faf77a7526040600060004_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MTI5YTJhNjI5Yzg3ZjUzNTI1Yzg4ZWFhOTI1NGQzMjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "true", 
+                "class": "sfw-header__logo-icon", 
+                "focusable": "false", 
+                "tabindex": "-1", 
+                "viewBox": "0 0 106 32"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "sfw-header__logo-icon", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "300", 
+            "fontSize": 36, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 155, 
+            "x": 320, 
+            "xPercent": 16.771653543307085, 
+            "y": 24, 
+            "yPercent": 0.2894006993850235
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 24
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 155
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "807ec546cdf50370b7508b4d150466d6", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 155, 
+    "x": 320, 
+    "y": 24
+}

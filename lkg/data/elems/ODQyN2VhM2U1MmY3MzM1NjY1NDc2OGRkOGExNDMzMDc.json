@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SdO3DpyJ0jxSHediJWdYEg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "button_X1218_Y0_W28_H48", 
+    "human_readable": "button_1218_0_28_48_button_00000000000000000000000004200e7007e00180000000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ODQyN2VhM2U1MmY3MzM1NjY1NDc2OGRkOGExNDMzMDc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-expanded": "false", 
+                "aria-haspopup": "true", 
+                "aria-label": "Open customer support menu", 
+                "class": "sfw-header-nav-trigger sfw-header-nav-trigger--dropdown sfw-header-nav-trigger--dropdown__arrow", 
+                "data-trigger": "true", 
+                "role": "button", 
+                "tabindex": "0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-nav-trigger--dropdown sfw-header-nav-trigger--dropdown__arrow", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 20, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 1218, 
+            "xPercent": 63.95915354330709, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 1218, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 28
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e4c92108440cc3cea2a60295a76e0341", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 28, 
+    "x": 1218, 
+    "y": 0
+}

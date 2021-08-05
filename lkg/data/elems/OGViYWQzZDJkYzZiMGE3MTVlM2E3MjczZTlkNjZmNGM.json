@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "4wDc4eTC3YnfakMO5Cvt7A==\n", 
+    "height": 46, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y24_W155_H46", 
+    "human_readable": "a_320_24_155_46_a_10001000110873adfffdfefd9fff97ff96ffb7fef7faf77a7526040600060004_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "OGViYWQzZDJkYzZiMGE3MTVlM2E3MjczZTlkNjZmNGM.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "false", 
+                "aria-label": "Chewy Homepage", 
+                "class": "sfw-header__logo", 
+                "href": "https://www.chewy.com/"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "sfw-header__logo", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "300", 
+            "fontSize": 36, 
+            "height": 46, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 155, 
+            "x": 320, 
+            "xPercent": 16.771653543307085, 
+            "y": 24, 
+            "yPercent": 0.6150691952844696
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 24
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 155
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "60e9e75de96cb2d8142bd4738e89b235", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 155, 
+    "x": 320, 
+    "y": 24
+}

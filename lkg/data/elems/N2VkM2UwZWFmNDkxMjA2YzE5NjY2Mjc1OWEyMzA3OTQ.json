@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "PbZmIqKDs0akjLpNQxTaqA==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "button_X320_Y630_W178_H58", 
+    "human_readable": "button_320_630_178_58_button_ffffffffffffffffffffdffb0039003d00390039243f7fbfffffffffffffffff_753e08ffafce0a65e45766fbc8041c52", 
+    "image_path": "N2VkM2UwZWFmNDkxMjA2YzE5NjY2Mjc1OWEyMzA3OTQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-menu__category is-control", 
+                "data-v-f61176b6": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(85, 85, 85)", 
+            "cssClass": "sfw-header-menu__category is-control", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 24, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Pharmacy", 
+            "type": "", 
+            "value": "", 
+            "width": 178, 
+            "x": 320, 
+            "xPercent": 16.771653543307085, 
+            "y": 630, 
+            "yPercent": 16.145566376217324
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 630
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 178
+        }, 
+        "tag_name": "button", 
+        "text": "Pharmacy"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "030e5b5ad4af90b1051a9b09cb099374", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Pharmacy", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 320, 
+    "y": 630
+}

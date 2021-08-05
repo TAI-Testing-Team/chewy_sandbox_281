@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "htJIep0jO73nTXdInhTkQA==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "div_X768_Y624_W188_H22", 
+    "human_readable": "div_768_624_188_22_div_ffffffffffffd5ffdcffe003c003c003c003c003c003c003ffffffffffffffff_b8ff7c8f98920b8e294fa49046cdcda0", 
+    "image_path": "NThjYzlhNmM1NGQ5ZjVkZWY0ODA0OTNkMDQyZDkxYzU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "cw-row__item__content"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "cw-row__item__content", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Tanks & Aquariums", 
+            "type": "", 
+            "value": "", 
+            "width": 188, 
+            "x": 768, 
+            "xPercent": 40.30921916010499, 
+            "y": 624, 
+            "yPercent": 10.910197885724271
+        }, 
+        "location": {
+            "x": 768, 
+            "y": 624
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 188
+        }, 
+        "tag_name": "div", 
+        "text": "Tanks & Aquariums"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "781d1562aa11ffe0adb3ebb8f87bd554", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Tanks & Aquariums", 
+    "transformed": true, 
+    "width": 188, 
+    "x": 768, 
+    "y": 624
+}
