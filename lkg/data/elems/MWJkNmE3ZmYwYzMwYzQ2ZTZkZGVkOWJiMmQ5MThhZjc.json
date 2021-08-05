@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "HRC3kcjSBUGkNJpUkT8urw==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y409_W158_H15", 
+    "human_readable": "a_320_409_158_15_a_ffffffff6cff7cff1c3f003f003f003f003f003f003f003f003ffffffffffbff_592510c204897527d26c411ec6be7868", 
+    "image_path": "MWJkNmE3ZmYwYzMwYzQ2ZTZkZGVkOWJiMmQ5MThhZjc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "174", 
+                "data-category-label": "Veterinary Diets", 
+                "data-facet-position": "4", 
+                "data-is-department-page": "false", 
+                "href": "/b/veterinary-diets-459"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Veterinary Diets", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 409, 
+            "yPercent": 5.654638462601963
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 409
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "Veterinary Diets"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Veterinary Diets", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 320, 
+    "y": 409
+}

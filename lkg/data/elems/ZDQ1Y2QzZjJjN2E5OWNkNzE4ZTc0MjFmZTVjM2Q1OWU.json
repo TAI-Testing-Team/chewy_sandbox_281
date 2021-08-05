@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "EwW94/PN5Qgp59nYA0XC8w==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y353_W150_H15", 
+    "human_readable": "a_320_353_150_15_a_ffffffff4bff4bff0bff03ff03ff03ff03ff03ff03ff03ff03ffbfffbfffbfff_467893f2201856bfb17f07f4174cd996", 
+    "image_path": "ZDQ1Y2QzZjJjN2E5OWNkNzE4ZTc0MjFmZTVjM2Q1OWU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "2005", 
+                "data-category-label": "Dry Food", 
+                "data-facet-position": "2", 
+                "data-is-department-page": "false", 
+                "href": "/b/dry-food-294"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Dry Food", 
+            "type": "", 
+            "value": "", 
+            "width": 150, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 353, 
+            "yPercent": 4.880409235448639
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 150
+        }, 
+        "tag_name": "a", 
+        "text": "Dry Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Dry Food", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 320, 
+    "y": 353
+}

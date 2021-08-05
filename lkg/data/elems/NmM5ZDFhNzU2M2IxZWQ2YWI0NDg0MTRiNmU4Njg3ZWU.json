@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "E043CDrIgPAXXSIFQH2CgQ==\n", 
+    "height": 257, 
+    "hier_level": 0, 
+    "human_hash": "img_X969_Y81_W306_H257", 
+    "human_readable": "img_969_81_306_257_img_007f00ff013f003f013e003e003e003e063e1ffe1ffe1ffe3ffe3ffe27ee27c6_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NmM5ZDFhNzU2M2IxZWQ2YWI0NDg0MTRiNmU4Njg3ZWU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Satish Mehta - Chief Technology Officer", 
+                "src": "//cms-www.chewy.com/contentAsset/raw-data/61e61834-a12e-4213-bde9-df8efcd24a92/teamMemberImage/6aed6657-5001-4347-9781-043589e5691c"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(51, 51, 51)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 257, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 306, 
+            "x": 969, 
+            "xPercent": 50.46874999999999, 
+            "y": 81, 
+            "yPercent": 4.807121661721069
+        }, 
+        "location": {
+            "x": 969, 
+            "y": 81
+        }, 
+        "size": {
+            "height": 257, 
+            "width": 306
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b2ac7be028281db03e3f8109f3491aba", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 306, 
+    "x": 969, 
+    "y": 81
+}

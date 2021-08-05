@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "HHyT5do596judgNpzc/PWg==\n", 
+    "height": 23, 
+    "hier_level": 0, 
+    "human_hash": "a_X403_Y602_W154_H23", 
+    "human_readable": "a_403_602_154_23_a_ffffffffffffff577f7733040000000000000100010001006382ffffffffffff_a8a597c6c7010305f7c1ce6272be16cc", 
+    "image_path": "MzhkZTFiOTk4OTgwYWY2YWJhZTVlNTMzMTY0OThjZGY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "//investor.chewy.com"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 23, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Investor Relations", 
+            "type": "", 
+            "value": "", 
+            "width": 154, 
+            "x": 403, 
+            "xPercent": 21.004231770833336, 
+            "y": 602, 
+            "yPercent": 16.11738621151272
+        }, 
+        "location": {
+            "x": 403, 
+            "y": 602
+        }, 
+        "size": {
+            "height": 23, 
+            "width": 154
+        }, 
+        "tag_name": "a", 
+        "text": "Investor Relations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "990ed82f05d34bd8d9553f07a76c75ed", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Investor Relations", 
+    "transformed": true, 
+    "width": 154, 
+    "x": 403, 
+    "y": 602
+}

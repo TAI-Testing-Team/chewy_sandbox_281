@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "7qMrUlKGqUv9y/+QRFFKGg==\n", 
+    "height": 190, 
+    "hier_level": 0, 
+    "human_hash": "img_X588_Y478_W190_H190", 
+    "human_readable": "img_588_478_190_190_img_81838003801b819b83c3800382f18ff98c0180f183f1938182018001807fcfff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MGViNjA2NWM5YzEwMGZmMTU1MWI2MjkxNjU3ZWI0MjU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Stella & Chewy's Stella's Super Beef Meal Mixers Freeze-Dried Raw Dog Food Topper, 18-oz bag", 
+                "loading": "lazy", 
+                "src": "//img.chewy.com/is/image/catalog/82075_MAIN._AC_SS190_V1517943037_.jpg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 190, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 190, 
+            "x": 588, 
+            "xPercent": 30.613606770833336, 
+            "y": 478, 
+            "yPercent": 9.218146718146718
+        }, 
+        "location": {
+            "x": 588, 
+            "y": 478
+        }, 
+        "size": {
+            "height": 190, 
+            "width": 190
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d1361f1df3b9b16d5098f67103501763", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 190, 
+    "x": 588, 
+    "y": 478
+}

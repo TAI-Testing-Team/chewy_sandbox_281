@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "AfRIfY05I6X1CYkuUl7/YA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y465_W158_H15", 
+    "human_readable": "a_320_465_158_15_a_ffffffff6dff6dff09ff01ff01ff03ff01ff01ff01ff01ff01ffffffffffffff_3329364f58371ca8558cac083688b6c6", 
+    "image_path": "ZTY3MTUxZjYzMDgyZDk0NjE1MjkzYjRmODUyN2Q0NGI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "338", 
+                "data-category-label": "Raw Food", 
+                "data-facet-position": "6", 
+                "data-is-department-page": "false", 
+                "href": "/b/raw-food-8424"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Raw Food", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 465, 
+            "yPercent": 6.428867689755288
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 465
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "Raw Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Raw Food", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 320, 
+    "y": 465
+}

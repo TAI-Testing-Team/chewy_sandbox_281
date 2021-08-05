@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "46dU4TTOEk/9C1zuEjoFkA==\n", 
+    "height": 23, 
+    "hier_level": 0, 
+    "human_hash": "a_X590_Y602_W77_H23", 
+    "human_readable": "a_590_602_77_23_a_ffffffffffffa0ffa4ef248e000000000080000000044000dfb6ffffffffffff_9a6fe7f7c8219f8adbab6ccfa4ea9efd", 
+    "image_path": "NmQ1NjdmOGM1M2U1ODhkYWI1OTRmYmVhMjU3OTY1YmY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/app/content/affiliate"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 23, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Affiliates", 
+            "type": "", 
+            "value": "", 
+            "width": 77, 
+            "x": 590, 
+            "xPercent": 30.716959635416668, 
+            "y": 602, 
+            "yPercent": 16.11738621151272
+        }, 
+        "location": {
+            "x": 590, 
+            "y": 602
+        }, 
+        "size": {
+            "height": 23, 
+            "width": 77
+        }, 
+        "tag_name": "a", 
+        "text": "Affiliates"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "990ed82f05d34bd8d9553f07a76c75ed", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Affiliates", 
+    "transformed": true, 
+    "width": 77, 
+    "x": 590, 
+    "y": 602
+}

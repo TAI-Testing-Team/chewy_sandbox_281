@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "73y2qUBEyLpbKtV8L25TgA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y521_W158_H15", 
+    "human_readable": "a_320_521_158_15_a_ffffffff67ff67ff4fff003f003f007f007f003f007f003f003ffb7ffb7ffb7f_a87853f7955d5b72a2bc9f73a552948f", 
+    "image_path": "NzMyZGM3MTM2YjQ4YzA4ZDEyZDMxMTFkMmNkOWZhNmE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "443", 
+                "data-category-label": "Food Toppings", 
+                "data-facet-position": "8", 
+                "data-is-department-page": "false", 
+                "href": "/b/food-toppings-337"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Food Toppings", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 521, 
+            "yPercent": 7.203096916908613
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 521
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "Food Toppings"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Food Toppings", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 320, 
+    "y": 521
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "jgbOwCA6JslE/jh+yU/ZSQ==\n", 
+    "height": 34, 
+    "hier_level": 0, 
+    "human_hash": "a_X788_Y158_W58_H34", 
+    "human_readable": "a_788_158_58_34_a_ffffffffffffffffc7ffc7ffe807e003e003e003e803ffffffffffffffffffff_c67d9804e69878e56cf779887829a95e", 
+    "image_path": "NjQwMTQ3YzgyYWNiOWE4MDY1MjE5Mzk4Y2QyMGM2Y2E.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " cw-type__body cw-margin__bottom--none", 
+                "href": "/app/content/our-team"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": " cw-type__body cw-margin__bottom--none", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 34, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Team", 
+            "type": "", 
+            "value": "", 
+            "width": 58, 
+            "x": 788, 
+            "xPercent": 41.024576822916664, 
+            "y": 158, 
+            "yPercent": 2.867513611615245
+        }, 
+        "location": {
+            "x": 788, 
+            "y": 158
+        }, 
+        "size": {
+            "height": 34, 
+            "width": 58
+        }, 
+        "tag_name": "a", 
+        "text": "Team"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1d5f20452125f350da1ac19f9567eab5", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Team", 
+    "transformed": true, 
+    "width": 58, 
+    "x": 788, 
+    "y": 158
+}

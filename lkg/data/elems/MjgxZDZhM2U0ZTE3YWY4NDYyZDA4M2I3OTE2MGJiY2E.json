@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "CRWxVQ0MmVPCgK30iOVw1g==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y577_W166_H15", 
+    "human_readable": "a_320_577_166_15_a_ffffffff72ff76ff14ff00ff00ff00ff00ff00ff00ff00ff00ffffffffffffff_708daa10714a061e2675b8396a125181", 
+    "image_path": "MjgxZDZhM2U0ZTE3YWY4NDYyZDA4M2I3OTE2MGJiY2E.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "22", 
+                "data-category-label": "Frozen Food", 
+                "data-facet-position": "10", 
+                "data-is-department-page": "false", 
+                "href": "/b/frozen-food-334"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Frozen Food", 
+            "type": "", 
+            "value": "", 
+            "width": 166, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 577, 
+            "yPercent": 7.977326144061939
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 577
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 166
+        }, 
+        "tag_name": "a", 
+        "text": "Frozen Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Frozen Food", 
+    "transformed": true, 
+    "width": 166, 
+    "x": 320, 
+    "y": 577
+}

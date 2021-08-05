@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Q+itPyDBF9J0kN1pKgWctw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X1235_Y275_W40_H40", 
+    "human_readable": "button_1235_275_40_40_button_fffefffffffffffffffff99ff81ffc3ffc3ff81ff99fffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NThkYmU1YTg3YWUwMmI5ZWIxZWYwOWQ2ZmMzNTVkMTM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Remove item from cart", 
+                "class": "sfw-cart-item__close"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(195, 195, 195)", 
+            "cssClass": "sfw-cart-item__close", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13.3333, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 40, 
+            "x": 1235, 
+            "xPercent": 64.32291666666666, 
+            "y": 275, 
+            "yPercent": 17.673521850899743
+        }, 
+        "location": {
+            "x": 1235, 
+            "y": 275
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 40
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0d45452f37ceaf7df352374c7fa6db32", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 40, 
+    "x": 1235, 
+    "y": 275
+}

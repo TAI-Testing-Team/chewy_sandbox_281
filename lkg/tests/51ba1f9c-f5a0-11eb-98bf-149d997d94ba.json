@@ -1,35 +1,19 @@
 {
-    "Menu Bar": {
+    "Browse About Us": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Menu Bar", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "tap", 
+                "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "ddm_shop"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddi_fish"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
+                "script_name": "swipe_until_lnk_about", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -39,9 +23,34 @@
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "swipe_until_lnk_about.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
                 "labels": [
-                    "img_tanks_aquariums"
+                    "lnk_about"
                 ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "trusted and convenient ", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
@@ -54,21 +63,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_pharmacy"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_shop_all_pharmacy"
+                    "mnu_team"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -84,6 +79,20 @@
                 "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "img_satish_mehta"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -106,35 +115,9 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mnu_brands"
+                    "mnu_contact"
                 ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "Shop by Brand", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_todays_deals"
-                ], 
-                "run_only_if_label_present": false, 
+                "run_only_if_label_present": true, 
                 "type": "action", 
                 "widget": "default"
             }, 
@@ -153,12 +136,12 @@
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "hamster food", 
+                "grep": "", 
                 "grep_count": null, 
-                "input": "text_entry", 
+                "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "inp_search"
+                    "btn_expand_tile"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -172,21 +155,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mnu_chewy_picks"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "icn_chewy_home"
+                    "btn_shrink_tile"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -194,7 +163,7 @@
             }
         ], 
         "tags": [], 
-        "temp_id": "143b7891-f586-11eb-b57c-1e00da3ad77a", 
-        "title": "Menu Bar"
+        "temp_id": "51ba1f9c-f5a0-11eb-98bf-149d997d94ba", 
+        "title": "Browse About Us"
     }
 }

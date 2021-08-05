@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "iqXHASO+6G85z8hBjF52zA==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y437_W158_H15", 
+    "human_readable": "a_320_437_158_15_a_ffffffff6dff7dff3d7f003f003f007f007f007f007f003f003fffffffffffff_4819b4ee8bd8abeaec0671ef81e9a58d", 
+    "image_path": "OTI4YzgwOWJmYmI1NDhkMmE5ZDI5Y2IzYjU1NjFmOTI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "959", 
+                "data-category-label": "Premium Food", 
+                "data-facet-position": "5", 
+                "data-is-department-page": "true", 
+                "href": "/b/premium-food-11728"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Premium Food", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 437, 
+            "yPercent": 6.041753076178626
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 437
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "Premium Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Premium Food", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 320, 
+    "y": 437
+}

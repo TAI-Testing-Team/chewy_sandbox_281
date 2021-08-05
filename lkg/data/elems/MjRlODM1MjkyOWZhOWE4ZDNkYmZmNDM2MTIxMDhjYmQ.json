@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "nP4PfVW2p5Gn9SispqBZ+A==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "a_X355_Y297_W129_H18", 
+    "human_readable": "a_355_297_129_18_a_ffffffffffff73ff73ff35ff00ff00ff00ff00ff00ff00ff0cffffffffffffff_8ccac53f771fdd97accfc291b21efc9d", 
+    "image_path": "MjRlODM1MjkyOWZhOWE4ZDNkYmZmNDM2MTIxMDhjYmQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "filter-label", 
+                "data-facet-position": "1", 
+                "href": "https://www.chewy.com/f/grain-free-raw-dog-food_c8424_f3v9075"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "filter-label", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Grain-Free", 
+            "type": "", 
+            "value": "", 
+            "width": 129, 
+            "x": 355, 
+            "xPercent": 18.489583333333336, 
+            "y": 297, 
+            "yPercent": 4.751290826128722
+        }, 
+        "location": {
+            "x": 355, 
+            "y": 297
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 129
+        }, 
+        "tag_name": "a", 
+        "text": "Grain-Free"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "46af640dff60e598684c45e294670f01", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Grain-Free", 
+    "transformed": true, 
+    "width": 129, 
+    "x": 355, 
+    "y": 297
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "TSZaYnjLjl4R6c8pdD0WyA==\n", 
+    "height": 23, 
+    "hier_level": 0, 
+    "human_hash": "a_X920_Y602_W86_H23", 
+    "human_readable": "a_920_602_86_23_a_ffffffffffff066b267b0273428042000200020002010200aad2ffffffffffff_310e23d62c2922848fc1cba03ea45bd1", 
+    "image_path": "NDA5NDJjMmJjMzE3MjM5YjM4MzA2NDkwNmM2YTBlMDg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/gift-guide"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 23, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Gift Guide", 
+            "type": "", 
+            "value": "", 
+            "width": 86, 
+            "x": 920, 
+            "xPercent": 47.897135416666664, 
+            "y": 602, 
+            "yPercent": 16.11738621151272
+        }, 
+        "location": {
+            "x": 920, 
+            "y": 602
+        }, 
+        "size": {
+            "height": 23, 
+            "width": 86
+        }, 
+        "tag_name": "a", 
+        "text": "Gift Guide"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "990ed82f05d34bd8d9553f07a76c75ed", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Gift Guide", 
+    "transformed": true, 
+    "width": 86, 
+    "x": 920, 
+    "y": 602
+}

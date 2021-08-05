@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "gsn0JY7wKTOGzp7A4zrncA==\n", 
+    "height": 30, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y605_W158_H30", 
+    "human_readable": "a_320_605_158_30_a_ffff737f007f007f007f007f807fffffffff7e7f001f001f001f001f011fdfff_2317a47e4df60cce99c558f15b8d1573", 
+    "image_path": "OTRkZGFmOGNlODM2YWFkMGMxZTkyMzdjYmM5ZjgwY2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "315", 
+                "data-category-label": "Freeze-Dried & Dehydrated Food", 
+                "data-facet-position": "11", 
+                "data-is-department-page": "false", 
+                "href": "/b/freeze-dried-dehydrated-food-8440"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 30, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Freeze-Dried & Dehydrated Food", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 605, 
+            "yPercent": 8.3644407576386
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 605
+        }, 
+        "size": {
+            "height": 30, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "Freeze-Dried & Dehydrated Food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Freeze-Dried & Dehydrated Food", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 320, 
+    "y": 605
+}

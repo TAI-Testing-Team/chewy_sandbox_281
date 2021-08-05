@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "e9VSb7cLM9wLc6HLv7k7fA==\n", 
+    "height": 23, 
+    "hier_level": 0, 
+    "human_hash": "a_X773_Y602_W44_H23", 
+    "human_readable": "a_773_602_44_23_a_ffffffffffff0b9f0b0f31693168016205612168200024886e89ffefffffffff_cde30a33b5e117f7a03e76d3272a4ef0", 
+    "image_path": "MTllOGVmNThmMGIxMjFkYWZhOWRhZGRiZWNjNGM1ZDA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/app/content/faq"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 23, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "FAQs", 
+            "type": "", 
+            "value": "", 
+            "width": 44, 
+            "x": 773, 
+            "xPercent": 40.247395833333336, 
+            "y": 602, 
+            "yPercent": 16.11738621151272
+        }, 
+        "location": {
+            "x": 773, 
+            "y": 602
+        }, 
+        "size": {
+            "height": 23, 
+            "width": 44
+        }, 
+        "tag_name": "a", 
+        "text": "FAQs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "990ed82f05d34bd8d9553f07a76c75ed", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "FAQs", 
+    "transformed": true, 
+    "width": 44, 
+    "x": 773, 
+    "y": 602
+}

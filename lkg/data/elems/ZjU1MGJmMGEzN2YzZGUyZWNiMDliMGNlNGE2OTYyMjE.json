@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "jwlaj+Q7LTPQPPyWdZ9c9w==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "a_X320_Y493_W158_H15", 
+    "human_readable": "a_320_493_158_15_a_ffffffff7bff7bff3aff007f047f007f007f007f00ff007f007fffffffffffff_5eaf62ba62a3b71c699d2f03bb160bc6", 
+    "image_path": "ZjU1MGJmMGEzN2YzZGUyZWNiMDliMGNlNGE2OTYyMjE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "facet_selection", 
+                "data-category-count": "387", 
+                "data-category-label": "Human-Grade", 
+                "data-facet-position": "7", 
+                "data-is-department-page": "false", 
+                "href": "/b/human-grade-1902"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(14, 112, 190)", 
+            "cssClass": "facet_selection", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, Arial, helvetica, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Human-Grade", 
+            "type": "", 
+            "value": "", 
+            "width": 158, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 493, 
+            "yPercent": 6.815982303331951
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 493
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 158
+        }, 
+        "tag_name": "a", 
+        "text": "Human-Grade"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1b008530116adaacb95b9e6c2d3873be", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Human-Grade", 
+    "transformed": true, 
+    "width": 158, 
+    "x": 320, 
+    "y": 493
+}
