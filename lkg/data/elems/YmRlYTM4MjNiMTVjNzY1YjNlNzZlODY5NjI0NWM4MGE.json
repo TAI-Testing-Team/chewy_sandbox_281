@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AHdf7qAs8aUGq4hsqC3Meg==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "span_X460_Y178_W241_H28", 
+    "human_readable": "span_460_178_241_28_span_ffffffffffff67f777df000000000000100010001002002090a0fffffdbfffff_eaf340eee200841b58fbd05429203ccd", 
+    "image_path": "YmRlYTM4MjNiMTVjNzY1YjNlNzZlODY5NjI0NWM4MGE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-event-action": "impression", 
+                "data-event-category": "checkout", 
+                "data-event-label": "Your Shipping Address", 
+                "data-qa-id": "your-shipping-address-label", 
+                "data-v-7318c869": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(51, 51, 51)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 24, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Your Shipping Address", 
+            "type": "", 
+            "value": "", 
+            "width": 241, 
+            "x": 460, 
+            "xPercent": 23.958333333333336, 
+            "y": 178, 
+            "yPercent": 10.194730813287514
+        }, 
+        "location": {
+            "x": 460, 
+            "y": 178
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 241
+        }, 
+        "tag_name": "span", 
+        "text": "Your Shipping Address"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "df62ec91ccb49f7e450e99fbedc52f2f", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Your Shipping Address", 
+    "transformed": true, 
+    "width": 241, 
+    "x": 460, 
+    "y": 178
+}

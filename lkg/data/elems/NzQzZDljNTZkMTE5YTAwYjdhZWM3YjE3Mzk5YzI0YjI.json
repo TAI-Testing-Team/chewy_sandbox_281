@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "O6mTmUuHKnLvOPAAwAd7ig==\n", 
+    "height": 73, 
+    "hier_level": 0, 
+    "human_hash": "img_X796_Y856_W73_H73", 
+    "human_readable": "img_796_856_73_73_img_ffffffffffff8001800080018001a00190019c019c1f9d998001f03fffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NzQzZDljNTZkMTE5YTAwYjdhZWM3YjE3Mzk5YzI0YjI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "product Image", 
+                "class": "kib-media-image__resize--width", 
+                "src": "//img.chewy.com/is/image/catalog/76011_MAIN._SS160_V1551805038_.jpg", 
+                "style": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "kib-media-image__resize--width", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 73, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 73, 
+            "x": 796, 
+            "xPercent": 41.46484375, 
+            "y": 856, 
+            "yPercent": 49.00665807560137
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 856
+        }, 
+        "size": {
+            "height": 73, 
+            "width": 73
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f013d9084d8039eaa57328bbd2df2293", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 73, 
+    "x": 796, 
+    "y": 856
+}

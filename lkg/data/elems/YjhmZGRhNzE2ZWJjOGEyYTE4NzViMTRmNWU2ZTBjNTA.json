@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "z7KA7sJpwv8MSWl+As/Xmw==\n", 
+    "height": 124, 
+    "hier_level": 0, 
+    "human_hash": "button_X640_Y176_W194_H124", 
+    "human_readable": "button_640_176_194_124_button_00000000000010001a807fde7fee7fcc7fc00080000000000000000000000000_4c3547dd20db8d807c19aeccd56663a3", 
+    "image_path": "YjhmZGRhNzE2ZWJjOGEyYTE4NzViMTRmNWU2ZTBjNTA.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-header-nav-trigger sfw-header-nav-trigger--dropdown sfw-header-nav-trigger--large sfw-header-link__large"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-nav-trigger--dropdown sfw-header-nav-trigger--large sfw-header-link__large", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 24, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "shop", 
+            "type": "", 
+            "value": "", 
+            "width": 97, 
+            "x": 320, 
+            "xPercent": 16.666666666666664, 
+            "y": 88, 
+            "yPercent": 2.1322994911558033
+        }, 
+        "location": {
+            "x": 320, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 97
+        }, 
+        "tag_name": "button", 
+        "text": "shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8b95f2103bc3f94b84440a93efc86fc1", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "shop", 
+    "transformed": true, 
+    "width": 194, 
+    "x": 640, 
+    "y": 176
+}

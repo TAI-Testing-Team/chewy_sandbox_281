@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RIFyMFM5yHuna33/hZcPsw==\n", 
+    "height": 124, 
+    "hier_level": 0, 
+    "human_hash": "span_X2322_Y176_W178_H124", 
+    "human_readable": "span_2322_176_178_124_span_000000000000000018c27fff7fff7fff60000000000000000000000000000000_f040418b07ef1e255440f30551532008", 
+    "image_path": "NzAyYTkwNzk4ZTcyODI3YjUyMDg2MjllNzhlODIyMzI.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Give Back", 
+                "class": "sfw-header-nav-trigger sfw-header-nav__name sfw-header-link"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "sfw-header-nav-trigger sfw-header-nav__name sfw-header-link", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 19, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "give back", 
+            "type": "", 
+            "value": "", 
+            "width": 89, 
+            "x": 1161, 
+            "xPercent": 60.45572916666667, 
+            "y": 88, 
+            "yPercent": 2.1322994911558033
+        }, 
+        "location": {
+            "x": 1161, 
+            "y": 88
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 89
+        }, 
+        "tag_name": "span", 
+        "text": "give back"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8b95f2103bc3f94b84440a93efc86fc1", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "give back", 
+    "transformed": true, 
+    "width": 178, 
+    "x": 2322, 
+    "y": 176
+}

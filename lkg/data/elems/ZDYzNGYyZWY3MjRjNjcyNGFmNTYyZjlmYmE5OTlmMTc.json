@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "+aPmid55ZzHqxFlV0qbdcQ==\n", 
+    "height": 54, 
+    "hier_level": 0, 
+    "human_hash": "img_X338_Y298_W54_H54", 
+    "human_readable": "img_338_298_54_54_img_ffffffffffff8001800180018000b00190019c019c1f9c99c003ffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZDYzNGYyZWY3MjRjNjcyNGFmNTYyZjlmYmE5OTlmMTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Fancy Feast Classic Chicken Feast Canned Cat Food, slide 1 of 10", 
+                "loading": "lazy", 
+                "src": "//img.chewy.com/is/image/catalog/76011_MAIN._AC_SS55_V1551805038_.jpg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(14, 112, 190)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 54, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 54, 
+            "x": 338, 
+            "xPercent": 17.604166666666668, 
+            "y": 298, 
+            "yPercent": 2.6707295214196094
+        }, 
+        "location": {
+            "x": 338, 
+            "y": 298
+        }, 
+        "size": {
+            "height": 54, 
+            "width": 54
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d1a17d08f57316e60c1e9640a22146d9", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 54, 
+    "x": 338, 
+    "y": 298
+}

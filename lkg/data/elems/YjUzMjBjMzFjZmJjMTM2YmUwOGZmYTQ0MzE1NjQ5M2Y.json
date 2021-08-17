@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6lcq7O19ZlhckwQ+YGU4CA==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "input_X461_Y495_W189_H50", 
+    "human_readable": "input_461_495_189_50_input_0000ffffffffffffffff3bff003f003f003fc03fffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YjUzMjBjMzFjZmJjMTM2YmUwOGZmYTQ0MzE1NjQ5M2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "autocomplete": "tel", 
+                "class": "kib-form-input__control", 
+                "id": "shipping-phone-number-textbox", 
+                "maxlength": "14", 
+                "type": "tel"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "kib-form-input__control", 
+            "domLevel": 22, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 50, 
+            "identifier": "shipping-phone-number-textbox", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "tel", 
+            "value": "", 
+            "width": 189, 
+            "x": 461, 
+            "xPercent": 24.010416666666668, 
+            "y": 495, 
+            "yPercent": 28.350515463917525
+        }, 
+        "location": {
+            "x": 461, 
+            "y": 495
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 189
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c3df65ff9e525b3fb571e76c82612363", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 189, 
+    "x": 461, 
+    "y": 495
+}

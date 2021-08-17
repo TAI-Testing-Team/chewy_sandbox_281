@@ -1,0 +1,9 @@
+{
+    "lnk_fancy_feast": {
+        "all_scores": {
+            "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.88
+        }, 
+        "score": 0.88, 
+        "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+    }
+}

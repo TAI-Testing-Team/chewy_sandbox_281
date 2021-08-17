@@ -2,6 +2,7 @@
     "Menu Bar": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "Menu Bar", 
         "steps": [
             {
                 "continue_on_failure": false, 

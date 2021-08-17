@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "YRrbplZkgD7GuDwLvzJkGg==\n", 
+    "height": 50, 
+    "hier_level": 0, 
+    "human_hash": "input_X1119_Y744_W213_H50", 
+    "human_readable": "input_1119_744_213_50_input_0000ffffffffffffffff33ff00ff00ff00ff80ffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NTZmMzAyMDRmYTJkNDAwMWJhYTY2ZjUwYTYwNzNjNWQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "kib-form-input__control", 
+                "id": "add-promo-code-textbox"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "kib-form-input__control", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 50, 
+            "identifier": "add-promo-code-textbox", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 213, 
+            "x": 1119, 
+            "xPercent": 58.29427083333333, 
+            "y": 744, 
+            "yPercent": 42.59736540664375
+        }, 
+        "location": {
+            "x": 1119, 
+            "y": 744
+        }, 
+        "size": {
+            "height": 50, 
+            "width": 213
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c3df65ff9e525b3fb571e76c82612363", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 213, 
+    "x": 1119, 
+    "y": 744
+}

@@ -1,0 +1,9 @@
+{
+    "inp_full_name": {
+        "all_scores": {
+            "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.98
+        }, 
+        "score": 0.98, 
+        "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+    }
+}

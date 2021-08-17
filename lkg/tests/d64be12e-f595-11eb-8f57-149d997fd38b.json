@@ -1,8 +1,7 @@
 {
-    "buy cat food": {
+    "Buy Cat Food - Login - Checkout": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "buy cat food", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -54,7 +53,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_fancy_feast"
+                    "img_fancy_feast"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -129,10 +128,88 @@
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": true, 
+                "description": "Verifies that we are on the Checkout page by verifying the Your Shipping Address title", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_your_shipping_address"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": true, 
+                "description": "Your Shipping Address text title", 
+                "grep": "Your Shipping Address", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": true, 
+                "description": "Verifies the Placeholder text \"Full Name\" in  Full Name input field", 
+                "grep": "Full Name", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "Ron Carter", 
+                "grep_count": null, 
+                "input": "text_entry_no_submit", 
+                "label_count": null, 
+                "labels": [
+                    "inp_full_name"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": true, 
+                "description": "Verifies recently entered text in the Full Name input field", 
+                "grep": "Ron Carter", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "icn_chewy_home"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
             }
         ], 
         "tags": [], 
         "temp_id": "d64be12e-f595-11eb-8f57-149d997fd38b", 
-        "title": "buy cat food"
+        "title": "Buy Cat Food - Login - Checkout"
     }
 }
